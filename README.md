@@ -1,6 +1,6 @@
 <p align="center">
   <strong style="font-size: 24px;">Turing Compiler</strong> 
-  <img src="https://github.com/user-attachments/assets/375d941d-ece7-4628-9101-319b57019266" alt="C_Logo" width="32" height="32" style="margin-top: -50px;" align="top">
+  <img src="https://github.com/user-attachments/assets/375d941d-ece7-4628-9101-319b57019266" alt="C_Logo" width="32" height="32" style="margin-top: px;">
 </p>
 
 <p align="center">
